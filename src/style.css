@@ -1,1 +1,18 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.card {
+  height: 350px;
+  width: 250px;
+}
+
+.red {
+  color: red;
+}
+
+.black {
+  color: black;
+}
+
+.rotate-180 {
+  transform: rotate(180deg);
+}
